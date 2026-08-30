@@ -18,9 +18,9 @@
 
 ## 📥 Direct APK Downloads
 
-Download the latest version (**v1.0.3**) below:
+Download the latest release (**v1.0.4**) below:
 
-### 🚀 [Download 9M2PJU-HamClock.apk (Universal)](https://github.com/9M2PJU/9M2PJU-HamClock-Android-Releases/releases/download/v1.0.3/9M2PJU-HamClock.apk)
+### 🚀 [Download 9M2PJU-HamClock.apk (Universal)](https://github.com/9M2PJU/9M2PJU-HamClock-Android-Releases/releases/latest/download/9M2PJU-HamClock.apk)
 *Recommended for all Android smartphones, tablets, TV boxes, and car head units.*
 
 ---
@@ -31,17 +31,18 @@ If you prefer smaller, optimized downloads for your specific device architecture
 
 | Download Link | Architecture | Target Devices | Size |
 | :--- | :---: | :--- | :---: |
-| [**`9M2PJU-HamClock-arm64-v8a.apk`**](https://github.com/9M2PJU/9M2PJU-HamClock-Android-Releases/releases/download/v1.0.3/9M2PJU-HamClock-arm64-v8a.apk) | `arm64-v8a` | Modern 64-bit ARM phones/tablets (Android 8.0+) | ~8.1 MB |
-| [**`9M2PJU-HamClock-armeabi-v7a.apk`**](https://github.com/9M2PJU/9M2PJU-HamClock-Android-Releases/releases/download/v1.0.3/9M2PJU-HamClock-armeabi-v7a.apk) | `armeabi-v7a` | Older 32-bit ARM devices, legacy tablets | ~7.3 MB |
-| [**`9M2PJU-HamClock-x86_64.apk`**](https://github.com/9M2PJU/9M2PJU-HamClock-Android-Releases/releases/download/v1.0.3/9M2PJU-HamClock-x86_64.apk) | `x86_64` | Android Emulators (BlueStacks/LDPlayer), x86 tablets | ~8.1 MB |
-| [**`9M2PJU-HamClock-x86.apk`**](https://github.com/9M2PJU/9M2PJU-HamClock-Android-Releases/releases/download/v1.0.3/9M2PJU-HamClock-x86.apk) | `x86` | 32-bit Intel/AMD Android devices | ~8.3 MB |
-| [**`checksums-sha256.txt`**](https://github.com/9M2PJU/9M2PJU-HamClock-Android-Releases/releases/download/v1.0.3/checksums-sha256.txt) | - | SHA-256 Checksums for package verification | ~560 B |
+| [**`9M2PJU-HamClock-arm64-v8a.apk`**](https://github.com/9M2PJU/9M2PJU-HamClock-Android-Releases/releases/latest/download/9M2PJU-HamClock-arm64-v8a.apk) | `arm64-v8a` | Modern 64-bit ARM phones/tablets (Android 8.0+) | ~8.1 MB |
+| [**`9M2PJU-HamClock-armeabi-v7a.apk`**](https://github.com/9M2PJU/9M2PJU-HamClock-Android-Releases/releases/latest/download/9M2PJU-HamClock-armeabi-v7a.apk) | `armeabi-v7a` | Older 32-bit ARM devices, legacy tablets | ~7.3 MB |
+| [**`9M2PJU-HamClock-x86_64.apk`**](https://github.com/9M2PJU/9M2PJU-HamClock-Android-Releases/releases/latest/download/9M2PJU-HamClock-x86_64.apk) | `x86_64` | Android Emulators (BlueStacks/LDPlayer), x86 tablets | ~8.1 MB |
+| [**`9M2PJU-HamClock-x86.apk`**](https://github.com/9M2PJU/9M2PJU-HamClock-Android-Releases/releases/latest/download/9M2PJU-HamClock-x86.apk) | `x86` | 32-bit Intel/AMD Android devices | ~8.3 MB |
+| [**`checksums-sha256.txt`**](https://github.com/9M2PJU/9M2PJU-HamClock-Android-Releases/releases/latest/download/checksums-sha256.txt) | - | SHA-256 Checksums for package verification | ~560 B |
 
 ---
 
 ## ✨ Features
 
 - 📱 **100% Standalone Native APK**: Embedded C++ HamClock engine running natively via Android NDK. No Termux or root needed!
+- 📝 **Rich-Text In-App Update Changelog**: Full Markdown formatting for update changelog rendering cleanly without asterisks.
 - 📦 **Station Config Backup & Restore**: Full export & import of station EEPROM, presets, and Android preferences to `.zip` via Storage Access Framework (SAF) & Share Sheet.
 - 🎨 **Ghost-Free Overlay Controls**: Smooth 100% fading and collapsing controls menu leaving zero shadow artifacts on screen.
 - 🇲🇾 **Bahasa Melayu Localization**: Native Malaysian Malay translations.
@@ -58,7 +59,7 @@ If you prefer smaller, optimized downloads for your specific device architecture
 
 ## 📲 Installation Instructions
 
-1. Download **[`9M2PJU-HamClock.apk`](https://github.com/9M2PJU/9M2PJU-HamClock-Android-Releases/releases/download/v1.0.3/9M2PJU-HamClock.apk)** to your Android device.
+1. Download **[`9M2PJU-HamClock.apk`](https://github.com/9M2PJU/9M2PJU-HamClock-Android-Releases/releases/latest/download/9M2PJU-HamClock.apk)** to your Android device.
 2. Tap the downloaded file to install. If prompted, enable **"Install unknown apps"** for your browser or file manager.
 3. Open **9M2PJU HamClock**. The app will initialize the C++ core engine and load your live space weather dashboard.
 4. *(Optional)* Tap the overlay menu in the top-right corner to toggle **Keep Screen On** or view your **Station LAN Link**.
