@@ -18,7 +18,7 @@
 
 ## 📥 Direct APK Downloads
 
-Download the latest release (**v1.0.4**) below:
+Download the latest release (**v1.0.5**) below:
 
 ### 🚀 [Download 9M2PJU-HamClock.apk (Universal)](https://github.com/9M2PJU/9M2PJU-HamClock-Android-Releases/releases/latest/download/9M2PJU-HamClock.apk)
 *Recommended for all Android smartphones, tablets, TV boxes, and car head units.*
@@ -42,6 +42,7 @@ If you prefer smaller, optimized downloads for your specific device architecture
 ## ✨ Features
 
 - 📱 **100% Standalone Native APK**: Embedded C++ HamClock engine running natively via Android NDK. No Termux or root needed!
+- ⏳ **Polished Startup Splash Screen**: 2-second minimum branded splash screen with real-time daemon initialization diagnostics.
 - 📝 **Rich-Text In-App Update Changelog**: Full Markdown formatting for update changelog rendering cleanly without asterisks.
 - 📦 **Station Config Backup & Restore**: Full export & import of station EEPROM, presets, and Android preferences to `.zip` via Storage Access Framework (SAF) & Share Sheet.
 - 🎨 **Ghost-Free Overlay Controls**: Smooth 100% fading and collapsing controls menu leaving zero shadow artifacts on screen.
