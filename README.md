@@ -43,6 +43,7 @@ If you prefer smaller, optimized downloads for your specific device architecture
 
 - ⚡ **HamClock v4.32 Native Engine**: Embedded C++ HamClock core engine updated to v4.32 with live APRS cluster, Sondehub balloon (HAB) tracking, HamAlert DX triggers, active wildfires, fire weather risks, marine storm warnings, WEFAX, IOTA, and on-screen modal virtual keyboard.
 - 📱 **100% Standalone Native APK**: Embedded C++ HamClock engine running natively via Android NDK. No Termux or root needed!
+- ⚙️ **Interactive Setup Wizard**: Interactive countdown at startup (*"Click anywhere to enter Setup ... 10"*) allows easy in-app configuration of callsign, DE grid, Wi-Fi, and cluster preferences.
 - ⏳ **Polished Startup Splash Screen**: 2-second minimum branded splash screen with real-time daemon initialization diagnostics.
 - 📝 **Rich-Text In-App Update Changelog**: Full Markdown formatting for update changelog rendering cleanly without asterisks.
 - 📦 **Station Config Backup & Restore**: Full export & import of station EEPROM, presets, and Android preferences to `.zip` via Storage Access Framework (SAF) & Share Sheet.
@@ -78,8 +79,9 @@ If you prefer smaller, optimized downloads for your specific device architecture
 
 ---
 
-## 📜 License & Acknowledgments
+## 📜 License & Credits
 
-- **Original HamClock Author**: Elwood Downey (**WB0OEW**), Clear Sky Institute
+- **HamClock Original Author**: Elwood Downey (**WB0OEW**) (Clear Sky Institute, Silent Key)
+- **Open HamClock Backend (OHB)**: International Community Team ([ohb.hamclock.app](https://ohb.hamclock.app))
 - **Android App & Packaging**: **9M2PJU** ([https://hamradio.my](https://hamradio.my))
 - Released under the [MIT License](LICENSE).
