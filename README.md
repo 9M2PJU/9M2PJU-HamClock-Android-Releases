@@ -85,3 +85,9 @@ If you prefer smaller, optimized downloads for your specific device architecture
 - **Open HamClock Backend (OHB)**: International Community Team ([ohb.hamclock.app](https://ohb.hamclock.app))
 - **Android App & Packaging**: **9M2PJU** ([https://hamradio.my](https://hamradio.my))
 - Released under the [MIT License](LICENSE).
+
+## Support
+
+If you find this project useful, please consider supporting it:
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=9m2pju%40hamradio.my&currency_code=MYR&item_name=9M2PJU-HamClock-Android-Releases)
